@@ -1,6 +1,6 @@
 # Java Challenges Repository
 
-This Application contains challenges and its unit test about different topics with java.
+This Application contains challenges and their unit tests about different topics with java.
 
 All the project was made using:
 
